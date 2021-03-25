@@ -1,7 +1,7 @@
 # 초기세팅 
 - https://reactnative.dev/
 - https://reactnavigation.org/
-
+- https://dev-yakuza.posstree.com/ko/react-native/android-google-play/
  ## 환경변수
 - Mac OS X
 
